@@ -5,4 +5,5 @@ Simple react-native template app with:
   * [axios](https://www.npmjs.com/package/react-native-axios)
   
 What do you want more?
+
 Home screen contains some components that are used to test basic functionality on iOS.
