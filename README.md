@@ -2,5 +2,6 @@
 Simple react-native template app with:
   * redux logic
   * native navigation
-  * axios. 
+  * axios
+  
 What do you want more?
