@@ -5,3 +5,5 @@ Simple react-native template app with:
   * axios
   
 What do you want more?
+
+// [I'm an inline-style link](https://www.google.com)
